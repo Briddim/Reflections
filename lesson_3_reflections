@@ -3,3 +3,10 @@ work local?
 
 It is interesting to use a remote repository when your are working on a project
 with someone else because it's easier to share your files that way.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+I would want to pull changes manually because if i'm not done with the code
+that I wrote on Github I don't want to interfer with the current working
+code in my local repository.
