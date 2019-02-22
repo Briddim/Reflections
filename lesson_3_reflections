@@ -10,3 +10,10 @@ automatically stay up-to-date with your remote repository?
 I would want to pull changes manually because if i'm not done with the code
 that I wrote on Github I don't want to interfer with the current working
 code in my local repository.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+I would use forks when i'm getting the data from someone else's repository
+but i would use clone when I don't need to modify anything on the original
+code. Branches are useful when I'm trying something out on my current code.
