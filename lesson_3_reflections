@@ -31,3 +31,11 @@ and what would be harder?
 Without using Git or GitHub, I would send a ip file everytime I make a
 change on the code but it would be hard to merge what we do at the same
 time.
+
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+When it's a small change I think it would be easier to do it directly in
+master but when I don't know the outcome of the code that I'm implementing
+I would rather use a branch because it does not affect the master. Also,
+when i am working on something bigger, I would prefer doing it on a branch.
