@@ -24,3 +24,10 @@ stored locally?
 Having a copy of the last remote stored locally is important because you can
 see what has been done in the code and don't have to do the same work that
 has already been made.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+Without using Git or GitHub, I would send a ip file everytime I make a
+change on the code but it would be hard to merge what we do at the same
+time.
