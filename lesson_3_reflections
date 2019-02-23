@@ -17,3 +17,10 @@ use one instead of another?
 I would use forks when i'm getting the data from someone else's repository
 but i would use clone when I don't need to modify anything on the original
 code. Branches are useful when I'm trying something out on my current code.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+Having a copy of the last remote stored locally is important because you can
+see what has been done in the code and don't have to do the same work that
+has already been made.
